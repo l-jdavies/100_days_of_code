@@ -10,3 +10,9 @@ I came up with a solution that technically worked but it was so inefficient, Cod
 I unlocked the solutions and copied a far nicer solution. The logic was the same as my solution
 but it was executed far more elegantly, using the `slice` method where as I was moving lots of things between different arrays. Took 1hr to complete.
 
+## Day 1: May 27, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/53697be005f803751e0015aa/solutions/ruby
+
+**Thoughts:**
+I enjoyed completing this one. Came up with a working solution in 20 min. Looking at other people's solutions, my approach could have been replaced with the string method `tr`.
