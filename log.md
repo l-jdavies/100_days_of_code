@@ -16,3 +16,10 @@ https://www.codewars.com/kata/53697be005f803751e0015aa/solutions/ruby
 
 **Thoughts:**
 I enjoyed completing this one. Came up with a working solution in 20 min. Looking at other people's solutions, my approach could have been replaced with the string method `tr`.
+
+## Day 2: May 28, 2020
+**Today's challenge:**
+https://launchschool.com/exercises/8a66610c
+
+**Thoughts:**
+Completed one of the LS Ruby small problems today. I've done a lot of focused study for the RB109 written assessment yesterday and my brain is feeling sluggish today.
