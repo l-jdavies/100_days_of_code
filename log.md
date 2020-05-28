@@ -22,4 +22,4 @@ I enjoyed completing this one. Came up with a working solution in 20 min. Lookin
 https://launchschool.com/exercises/8a66610c
 
 **Thoughts:**
-Completed one of the LS Ruby small problems today. I've done a lot of focused study for the RB109 written assessment yesterday and my brain is feeling sluggish today.
+Completed one of the LS Ruby small problems today. I've done a lot of focused study for the RB109 written assessment this week and my brain is feeling sluggish today.
