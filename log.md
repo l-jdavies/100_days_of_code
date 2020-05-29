@@ -23,3 +23,10 @@ https://launchschool.com/exercises/8a66610c
 
 **Thoughts:**
 Completed one of the LS Ruby small problems today. I've done a lot of focused study for the RB109 written assessment this week and my brain is feeling sluggish today.
+
+## Day 3: May 29, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d/solutions/ruby
+
+**Thoughts:**
+Back to solving Ruby 6 kyu from Megan's RB109 interview prep list. Enjoyed this one. Took about 15 min.
