@@ -30,3 +30,10 @@ https://www.codewars.com/kata/5808ff71c7cfa1c6aa00006d/solutions/ruby
 
 **Thoughts:**
 Back to solving Ruby 6 kyu from Megan's RB109 interview prep list. Enjoyed this one. Took about 15 min.
+
+## Day 4: May 30, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/5c55ad8c9d76d41a62b4ede3/ruby
+
+**Thoughts:**
+Completed the problem in less than 10 min but because it was pretty easy I didn't use PEDAC, which led to me using a hack and slash approach.
