@@ -37,3 +37,10 @@ https://www.codewars.com/kata/5c55ad8c9d76d41a62b4ede3/ruby
 
 **Thoughts:**
 Completed the problem in less than 10 min but because it was pretty easy I didn't use PEDAC, which led to me using a hack and slash approach.
+
+## Day 5: May 31, 2020
+** Today's challenge:**
+https://www.codewars.com/kata/5168b125faced29f66000005/ruby
+
+**Thoughts:**
+Much better today. Took the time to think about the return values of the method used. Solved in <10 min.
