@@ -2,7 +2,7 @@
 
 ## Day 0: May 26, 2020
 
-**Today's Challenge**: 
+**Today's challenge**: 
 https://www.codewars.com/kata/5848565e273af816fb000449/train/ruby
 
 **Thoughts:** 
@@ -39,7 +39,7 @@ https://www.codewars.com/kata/5c55ad8c9d76d41a62b4ede3/ruby
 Completed the problem in less than 10 min but because it was pretty easy I didn't use PEDAC, which led to me using a hack and slash approach.
 
 ## Day 5: May 31, 2020
-** Today's challenge:**
+**Today's challenge:**
 https://www.codewars.com/kata/5168b125faced29f66000005/ruby
 
 **Thoughts:**
