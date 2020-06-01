@@ -44,3 +44,10 @@ https://www.codewars.com/kata/5168b125faced29f66000005/ruby
 
 **Thoughts:**
 Much better today. Took the time to think about the return values of the method used. Solved in <10 min.
+
+## Day 6: June 1, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/ruby
+
+**Thoughts:**
+Solution isn't the most elegant but happy with the way I approached solving the problem.
