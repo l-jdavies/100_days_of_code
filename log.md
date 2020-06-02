@@ -51,3 +51,10 @@ https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/ruby
 
 **Thoughts:**
 Solution isn't the most elegant but happy with the way I approached solving the problem.
+
+## Day 7: June 2, 2020
+**Today's challege:**
+https://www.codewars.com/kata/59c5f4e9d751df43cf000035/ruby
+
+**Thoughts:**
+Took far longer than it should have because I made a stupid mistake, which I caught using `byebug`. Used PEDAC but I keep finding my pseudocode is more like actual code than true pseudocode.
