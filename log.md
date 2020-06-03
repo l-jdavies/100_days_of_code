@@ -58,3 +58,10 @@ https://www.codewars.com/kata/59c5f4e9d751df43cf000035/ruby
 
 **Thoughts:**
 Took far longer than it should have because I made a stupid mistake, which I caught using `byebug`. Used PEDAC but I keep finding my pseudocode is more like actual code than true pseudocode.
+
+## Day 8: June 3, 2020
+**Today's challenege:**
+https://www.codewars.com/kata/59da47fa27ee00a8b90000b4/ruby
+
+**Thoughts:**
+Completed without too many problems. Can tell my studies during the day are helping improve my abilities to problem solve.
