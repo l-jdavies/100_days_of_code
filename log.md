@@ -65,3 +65,10 @@ https://www.codewars.com/kata/59da47fa27ee00a8b90000b4/ruby
 
 **Thoughts:**
 Completed without too many problems. Can tell my studies during the day are helping improve my abilities to problem solve.
+
+## Day 9: June 4, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/565b112d09c1adfdd500019c/ruby
+
+**Thoughts:**
+Found the problem fairly straight forward. From now on I'll start recording myself solving my daily problem and vocialise my PEDAC approach. 
