@@ -72,3 +72,10 @@ https://www.codewars.com/kata/565b112d09c1adfdd500019c/ruby
 
 **Thoughts:**
 Found the problem fairly straight forward. From now on I'll start recording myself solving my daily problem and vocialise my PEDAC approach. 
+
+## Day 10: June 5, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/5491689aff74b9b292000334/solutions/ruby
+
+**Thoughts:**
+Found this challenge much harder than previous days, mainly because I was using an elaborate approach to create substrings. Solved the problem using PEDAC and studied the solution submitted by another LS student.
