@@ -79,3 +79,11 @@ https://www.codewars.com/kata/5491689aff74b9b292000334/solutions/ruby
 
 **Thoughts:**
 Found this challenge much harder than previous days, mainly because I was using an elaborate approach to create substrings. Solved the problem using PEDAC and studied the solution submitted by another LS student.
+
+## Day 11: June 6, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/545cedaa9943f7fe7b000048/ruby
+
+**Thoughts:**
+Solved the problem without any problems and made sure I vocalised the PEDAC process while solving, which definitely makes it more challenging!
+
