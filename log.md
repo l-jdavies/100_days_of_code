@@ -87,3 +87,9 @@ https://www.codewars.com/kata/545cedaa9943f7fe7b000048/ruby
 **Thoughts:**
 Solved the problem without any problems and made sure I vocalised the PEDAC process while solving, which definitely makes it more challenging!
 
+## Day 12: June 7, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/5264d2b162488dc400000001/ruby
+
+**Thoughts**
+Happy with the way I solved the problem but I need to start getting into the habit of refactoring old problems.
