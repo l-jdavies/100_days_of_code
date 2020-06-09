@@ -101,3 +101,9 @@ https://www.codewars.com/kata/55953e906851cf2441000032/ruby
 **Thoughts:**
 This one was really difficult! After 3.5 hrs I had a working solution but it's inefficient and codewars timed out on the last test case. After working on it for so long I unlocked the solutions rather than attempting to refactor.
 
+## Day 14: June 9, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/57f8ff867a28db569e000c4a/ruby
+
+**Thoughts:**
+Took me about 20 min to solve the problem but most time was spent on PEDAC. I can see significant improvements in how I write my algorithm and pseudocode.
