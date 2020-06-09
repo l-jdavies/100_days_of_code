@@ -91,5 +91,13 @@ Solved the problem without any problems and made sure I vocalised the PEDAC proc
 **Today's challenge:**
 https://www.codewars.com/kata/5264d2b162488dc400000001/ruby
 
-**Thoughts**
+**Thoughts:**
 Happy with the way I solved the problem but I need to start getting into the habit of refactoring old problems.
+
+## Day 13: June 8, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/55953e906851cf2441000032/ruby
+
+**Thoughts:**
+This one was really difficult! After 3.5 hrs I had a working solution but it's inefficient and codewars timed out on the last test case. After working on it for so long I unlocked the solutions rather than attempting to refactor.
+
