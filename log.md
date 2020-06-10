@@ -107,3 +107,10 @@ https://www.codewars.com/kata/57f8ff867a28db569e000c4a/ruby
 
 **Thoughts:**
 Took me about 20 min to solve the problem but most time was spent on PEDAC. I can see significant improvements in how I write my algorithm and pseudocode.
+
+## Day 15: June 10, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/543e8390386034b63b001f31/ruby
+
+**Thoughts:**
+Took 40 minutes to solve this one because there are many different components. Happy that I managed to sort hash keys and values successfully!
