@@ -114,3 +114,11 @@ https://www.codewars.com/kata/543e8390386034b63b001f31/ruby
 
 **Thoughts:**
 Took 40 minutes to solve this one because there are many different components. Happy that I managed to sort hash keys and values successfully!
+
+## Day 16: June 11, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/55968ab32cf633c3f8000008/ruby
+
+**Thoughts:**
+This one was only a 7 kyu so it was fairly straightforward.
+
