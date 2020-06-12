@@ -122,3 +122,10 @@ https://www.codewars.com/kata/55968ab32cf633c3f8000008/ruby
 **Thoughts:**
 This one was only a 7 kyu so it was fairly straightforward.
 
+## Day 17: June 12, 2020
+**Today's challenge:**
+LS medium Ruby small problems
+
+**Thoughts:**
+Going to focus on drilling LS problems in preparation for my RB109 interview assessment.
+
