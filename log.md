@@ -129,3 +129,9 @@ LS medium Ruby small problems
 **Thoughts:**
 Going to focus on drilling LS problems in preparation for my RB109 interview assessment.
 
+## Day 18: June 13, 2020
+**Today's challenge:**
+Reviewing LS small Ruby problems.
+
+**Thoughts:**
+Same as yesterday, drilling LS problems for assessment.
