@@ -142,3 +142,10 @@ https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/ruby
 
 **Thoughts:**
 Worked on a solution that I couldn't solve during live coding session.
+
+## Day 20: June 15, 2020
+**Today's challenge:**
+Drilling the easy LS small Ruby problems.
+
+**Thoughts:**
+Drilling the easy problems to refresh a broad range of Ruby syntax. Pair programming with another LS student later today.
