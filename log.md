@@ -135,3 +135,10 @@ Reviewing LS small Ruby problems.
 
 **Thoughts:**
 Same as yesterday, drilling LS problems for assessment.
+
+## Day 19: June 14, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/ruby
+
+**Thoughts:**
+Worked on a solution that I couldn't solve during live coding session.
