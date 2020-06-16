@@ -149,3 +149,7 @@ Drilling the easy LS small Ruby problems.
 
 **Thoughts:**
 Drilling the easy problems to refresh a broad range of Ruby syntax. Pair programming with another LS student later today.
+
+## Day 21: June 16, 2020
+**Today's challenge:**
+4 hours of 6 and 5 kyu codewar problems.
