@@ -154,6 +154,10 @@ Drilling the easy problems to refresh a broad range of Ruby syntax. Pair program
 **Today's challenge:**
 4 hours of 6 and 5 kyu codewar problems.
 
-## Day 22: June 16, 2020
+## Day 22: June 17, 2020
 **Today's challenge:**
-Another 4 hrs of codewars
+Another 4 hrs of codewars.
+
+## Day 23: June 18, 2020
+**Today's challenge:**
+Finished Megan's list of codewars problems for RB109 interview assessment.
