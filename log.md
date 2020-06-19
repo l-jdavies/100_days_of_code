@@ -161,3 +161,8 @@ Another 4 hrs of codewars.
 ## Day 23: June 18, 2020
 **Today's challenge:**
 Finished Megan's list of codewars problems for RB109 interview assessment.
+
+## Day 24: June 19, 2020
+**Today's challenge:**
+Repeated some easy LS Ruby small problems and passed my RB109 interview!
+
