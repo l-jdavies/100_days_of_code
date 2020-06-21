@@ -172,3 +172,10 @@ https://www.codewars.com/kata/5a523566b3bfa84c2e00010b/ruby
 
 **Thoughts:**
 It's the weekend so just did a 7 kyu.
+
+## Day 26: June 21, 2020
+**Today;s challenge:**
+https://www.codewars.com/kata/55960bbb182094bc4800007b/train/ruby
+
+**Thought's:**
+Easy one again today.
