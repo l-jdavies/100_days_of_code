@@ -166,3 +166,9 @@ Finished Megan's list of codewars problems for RB109 interview assessment.
 **Today's challenge:**
 Repeated some easy LS Ruby small problems and passed my RB109 interview!
 
+## Day 25: June 20, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/5a523566b3bfa84c2e00010b/ruby
+
+**Thoughts:**
+It's the weekend so just did a 7 kyu.
