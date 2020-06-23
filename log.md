@@ -179,3 +179,10 @@ https://www.codewars.com/kata/55960bbb182094bc4800007b/train/ruby
 
 **Thought's:**
 Easy one again today.
+
+## Day 27: June 22, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/ruby
+
+**Thought's:**
+Completed a 5 kyu, the last codewars problem recommended on Juliette's blog. I'm running out of LS recommended problems to work on. Spend the rest of the day reading the LS Introduction to OOP book.
