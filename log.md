@@ -186,3 +186,10 @@ https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/ruby
 
 **Thought's:**
 Completed a 5 kyu, the last codewars problem recommended on Juliette's blog. I'm running out of LS recommended problems to work on. Spend the rest of the day reading the LS Introduction to OOP book.
+
+## Day 28: June 23, 2020
+**Today's challenge:**
+https://www.codewars.com/kata/593c0ebf8b90525a62000221/ruby
+
+**Thought's**
+I enjoyed the problem but you have to look very carefully at the test cases to find the implicit rules of the problem.
