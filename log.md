@@ -191,5 +191,9 @@ Completed a 5 kyu, the last codewars problem recommended on Juliette's blog. I'm
 **Today's challenge:**
 https://www.codewars.com/kata/593c0ebf8b90525a62000221/ruby
 
-**Thought's**
+**Thought's:**
 I enjoyed the problem but you have to look very carefully at the test cases to find the implicit rules of the problem.
+
+## Day 29: June 24, 2020
+**Today's challenge:**
+Didn't do any codewars but completed the exercises in the LS OOP with Ruby book plus made notes and Anki cards on the last two chapters.
