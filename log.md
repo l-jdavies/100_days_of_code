@@ -198,6 +198,6 @@ I enjoyed the problem but you have to look very carefully at the test cases to f
 **Today's challenge:**
 Didn't do any codewars but completed the exercises in the LS OOP with Ruby book plus made notes and Anki cards on the last two chapters.
 
-##Day 30: June 25, 2020
+## Day 30: June 25, 2020
 **Today's challenge:**
 Completed the quiz at the end of OOP lesson 1 but didn't do particularly well so I'm going to read the optional material before moving on to lesson 2.
