@@ -201,3 +201,7 @@ Didn't do any codewars but completed the exercises in the LS OOP with Ruby book 
 ## Day 30: June 25, 2020
 **Today's challenge:**
 Completed the quiz at the end of OOP lesson 1 but didn't do particularly well so I'm going to read the optional material before moving on to lesson 2.
+
+## Day 31: June 26, 2020
+**Today's challenge:**
+Got a cold, only managed to review Anki today.
