@@ -205,3 +205,10 @@ Completed the quiz at the end of OOP lesson 1 but didn't do particularly well so
 ## Day 31: June 26, 2020
 **Today's challenge:**
 Got a cold, only managed to review Anki today.
+
+## Day 32: June 28, 2020
+**Today's challenge:**
+Completed the first two sets of the LS RB120 - OOP exercises.
+
+**Thought's:**
+Didn't do any coding yesterday and my brain still feels pretty foggy but it felt good to go through the exercises and feel like I have a grasp on the very basic concepts.
