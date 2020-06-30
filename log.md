@@ -212,3 +212,10 @@ Completed the first two sets of the LS RB120 - OOP exercises.
 
 **Thought's:**
 Didn't do any coding yesterday and my brain still feels pretty foggy but it felt good to go through the exercises and feel like I have a grasp on the very basic concepts.
+
+## Day 33: June 29, 2020
+**Today's challenge:**
+Completed four topics within RB120 lesson 2, reviewed and created flashcards plus live coded with a student.
+
+**Thought's:**
+I haven't done any codewars for a couple of days because RB120 is primarily exercise based at the moment plus I waste too much time looking for the 'right' type of codewars problem.
