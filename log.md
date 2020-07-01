@@ -177,21 +177,21 @@ It's the weekend so just did a 7 kyu.
 **Today;s challenge:**
 https://www.codewars.com/kata/55960bbb182094bc4800007b/train/ruby
 
-**Thought's:**
+**Thoughts:**
 Easy one again today.
 
 ## Day 27: June 22, 2020
 **Today's challenge:**
 https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/ruby
 
-**Thought's:**
+**Thoughts:**
 Completed a 5 kyu, the last codewars problem recommended on Juliette's blog. I'm running out of LS recommended problems to work on. Spend the rest of the day reading the LS Introduction to OOP book.
 
 ## Day 28: June 23, 2020
 **Today's challenge:**
 https://www.codewars.com/kata/593c0ebf8b90525a62000221/ruby
 
-**Thought's:**
+**Thoughts:**
 I enjoyed the problem but you have to look very carefully at the test cases to find the implicit rules of the problem.
 
 ## Day 29: June 24, 2020
@@ -210,12 +210,16 @@ Got a cold, only managed to review Anki today.
 **Today's challenge:**
 Completed the first two sets of the LS RB120 - OOP exercises.
 
-**Thought's:**
+**Thoughts:**
 Didn't do any coding yesterday and my brain still feels pretty foggy but it felt good to go through the exercises and feel like I have a grasp on the very basic concepts.
 
 ## Day 33: June 29, 2020
 **Today's challenge:**
 Completed four topics within RB120 lesson 2, reviewed and created flashcards plus live coded with a student.
 
-**Thought's:**
+**Thoughts:**
 I haven't done any codewars for a couple of days because RB120 is primarily exercise based at the moment plus I waste too much time looking for the 'right' type of codewars problem.
+
+## Day 34: June 30, 2020
+**Today's challenge:**
+Completed the easy 1 and easy 2 RB120 OOP problems and the first part of the rock, paper, scissors walk through.
