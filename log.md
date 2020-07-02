@@ -223,3 +223,7 @@ I haven't done any codewars for a couple of days because RB120 is primarily exer
 ## Day 34: June 30, 2020
 **Today's challenge:**
 Completed the easy 1 and easy 2 RB120 OOP problems and the first part of the rock, paper, scissors walk through.
+
+## Day 35: July 1, 2020
+**Today's challenge:**
+Completed the rock, paper, scissors walk through videos and started planning my rps bonus features.
