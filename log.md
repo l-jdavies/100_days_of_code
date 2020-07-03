@@ -227,3 +227,7 @@ Completed the easy 1 and easy 2 RB120 OOP problems and the first part of the roc
 ## Day 35: July 1, 2020
 **Today's challenge:**
 Completed the rock, paper, scissors walk through videos and started planning my rps bonus features.
+
+## Day 36: July 2, 2020
+**Today's challenge:** 
+Not a very productive day, still thinking about how to get started on the rps bonus features. I'm going to review the course material before trying again.
