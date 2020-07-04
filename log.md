@@ -231,3 +231,7 @@ Completed the rock, paper, scissors walk through videos and started planning my 
 ## Day 36: July 2, 2020
 **Today's challenge:** 
 Not a very productive day, still thinking about how to get started on the rps bonus features. I'm going to review the course material before trying again.
+
+## Day 37: July 3, 2020
+**Today's challenge:**
+Taking a few days off for the long weekend, so didn't do any studying today. Reviewed flashcards and repeated a codewars problem I'd previously completed.
