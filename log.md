@@ -235,3 +235,7 @@ Not a very productive day, still thinking about how to get started on the rps bo
 ## Day 37: July 3, 2020
 **Today's challenge:**
 Taking a few days off for the long weekend, so didn't do any studying today. Reviewed flashcards and repeated a codewars problem I'd previously completed.
+
+## Day 38: July 6, 2020
+**Today's challenge:**
+Reviewed flashcards and re-read my RB120 lesson 2 notes.
