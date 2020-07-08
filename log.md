@@ -239,3 +239,7 @@ Taking a few days off for the long weekend, so didn't do any studying today. Rev
 ## Day 38: July 6, 2020
 **Today's challenge:**
 Reviewed flashcards and re-read my RB120 lesson 2 notes.
+
+## Day 39: July 7, 2020
+**Today's challenge:**
+Worked on my rock, paper, lizard, spock game. Progress felt a bit slow because I was getting frustrated and made some stupid mistakes.
