@@ -243,3 +243,7 @@ Reviewed flashcards and re-read my RB120 lesson 2 notes.
 ## Day 39: July 7, 2020
 **Today's challenge:**
 Worked on my rock, paper, lizard, spock game. Progress felt a bit slow because I was getting frustrated and made some stupid mistakes.
+
+## Day 40: July 8, 2020
+**Today's challenge:**
+Finished my rock, paper, scissors, spock game and started reading RB120 lesson 3. I repeated a RB109 practise codewars problem and it was a bit more of a challenge given I haven't solved any problems for a while. It's a good reminder to keep up my problem solving skills.
