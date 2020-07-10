@@ -247,3 +247,7 @@ Worked on my rock, paper, lizard, spock game. Progress felt a bit slow because I
 ## Day 40: July 8, 2020
 **Today's challenge:**
 Finished my rock, paper, scissors, spock game and started reading RB120 lesson 3. I repeated a RB109 practise codewars problem and it was a bit more of a challenge given I haven't solved any problems for a while. It's a good reminder to keep up my problem solving skills.
+
+## Day 41: July 9, 2020
+**Today's challenge:** 
+I feel good about my progress today. Had a great study session then spent a lot of time reading and making notes on variable scope and the affect of inheritance on variable scope. I'm getting much better at slowing down and thinking about what I"m studying, not just focusing on progressing through the material.
