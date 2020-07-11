@@ -255,3 +255,7 @@ I feel good about my progress today. Had a great study session then spent a lot 
 ## Day 42: July 10, 2020
 **Today's challenge:**
 Completed lesson 3 then finished the easy 1, 2, 3 and medium 1 problems in lesson 4. I feel good about today but I know the plateau is looming...
+
+## Day 43: July 11, 2020
+**Today's challenge:**
+Reviewed flashcards and completed Q1 and Q2 from the Hard 1 lesson 4 practice problem set.
