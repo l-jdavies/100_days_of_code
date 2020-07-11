@@ -251,3 +251,7 @@ Finished my rock, paper, scissors, spock game and started reading RB120 lesson 3
 ## Day 41: July 9, 2020
 **Today's challenge:** 
 I feel good about my progress today. Had a great study session then spent a lot of time reading and making notes on variable scope and the affect of inheritance on variable scope. I'm getting much better at slowing down and thinking about what I"m studying, not just focusing on progressing through the material.
+
+## Day 42: July 10, 2020
+**Today's challenge:**
+Completed lesson 3 then finished the easy 1, 2, 3 and medium 1 problems in lesson 4. I feel good about today but I know the plateau is looming...
