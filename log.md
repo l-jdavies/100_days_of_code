@@ -260,6 +260,10 @@ Completed lesson 3 then finished the easy 1, 2, 3 and medium 1 problems in lesso
 **Today's challenge:**
 Reviewed flashcards and completed Q1 and Q2 from the Hard 1 lesson 4 practice problem set.
 
-## Day 44: July 12.2020
+## Day 44: July 12, 2020
 **Today's challenge:**
 Just reviewed flashcards today.
+
+## Day 45: July 13, 2020
+**Today's challenge:**
+Creating new OOP notes that focus on how each of the topics covered in the course fit within the core concepts of OOP and how they relate to each other.
