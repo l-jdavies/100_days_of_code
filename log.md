@@ -267,3 +267,7 @@ Just reviewed flashcards today.
 ## Day 45: July 13, 2020
 **Today's challenge:**
 Creating new OOP notes that focus on how each of the topics covered in the course fit within the core concepts of OOP and how they relate to each other.
+
+## Day 46: July 14, 2020
+**Today's challenge:**
+Study session and continuing to create new notes.
