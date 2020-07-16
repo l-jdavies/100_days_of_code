@@ -271,3 +271,7 @@ Creating new OOP notes that focus on how each of the topics covered in the cours
 ## Day 46: July 14, 2020
 **Today's challenge:**
 Study session and continuing to create new notes.
+
+## Day 47: July 15, 2020
+**Today's challenge:**
+Moved into lesson 5 and completed the walk through of the OOP tic tac toe game. I'll go back to completing my new notes.
