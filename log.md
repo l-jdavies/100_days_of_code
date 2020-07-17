@@ -279,3 +279,7 @@ Moved into lesson 5 and completed the walk through of the OOP tic tac toe game. 
 ## Day 48: July 16: 2020
 **Today's challenge:**
 Finished adding the additional features to the TTT walk through and started on implementing the bonus features. I'm enjoying thinking about how to work with an OOP approach.
+
+## Day 49: July 17: 2020
+**Today's challenge:**
+Finished implementing the bonus features to my TTT game but I need to refactor. Will spend this afternoon working on my Notion presentation.
