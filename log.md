@@ -275,3 +275,7 @@ Study session and continuing to create new notes.
 ## Day 47: July 15, 2020
 **Today's challenge:**
 Moved into lesson 5 and completed the walk through of the OOP tic tac toe game. I'll go back to completing my new notes.
+
+## Day 48: July 16: 2020
+**Today's challenge:**
+Finished adding the additional features to the TTT walk through and started on implementing the bonus features. I'm enjoying thinking about how to work with an OOP approach.
