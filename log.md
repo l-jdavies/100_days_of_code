@@ -276,10 +276,19 @@ Study session and continuing to create new notes.
 **Today's challenge:**
 Moved into lesson 5 and completed the walk through of the OOP tic tac toe game. I'll go back to completing my new notes.
 
-## Day 48: July 16: 2020
+## Day 48: July 16, 2020
 **Today's challenge:**
 Finished adding the additional features to the TTT walk through and started on implementing the bonus features. I'm enjoying thinking about how to work with an OOP approach.
 
-## Day 49: July 17: 2020
+## Day 49: July 17, 2020
 **Today's challenge:**
 Finished implementing the bonus features to my TTT game but I need to refactor. Will spend this afternoon working on my Notion presentation.
+
+## Day 50: July 18, 2020
+Flashcards only today.
+
+## Day 51: July 19, 2020
+Flashcards and finished presentation.
+
+## Day 52: July 20, 2020
+Gave presentation and refactored my TTT game based on a code review.
