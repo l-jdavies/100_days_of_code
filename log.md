@@ -292,3 +292,9 @@ Flashcards and finished presentation.
 
 ## Day 52: July 20, 2020
 Gave presentation and refactored my TTT game based on a code review.
+
+## Day 53: July 21, 2020
+Started OOP Twenty-One game and I struggled. I get overwhelmed when I first start trying to plan an OOP game. Need to take a step back and think about the organisation/spend more time with spike before trying to dive in an code.
+
+## Day 54: July 22, 2020
+Have a working Twenty-One game but needs refactoring - a lot of methods have too high of a complexity level.
