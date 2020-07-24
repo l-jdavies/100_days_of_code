@@ -298,3 +298,6 @@ Started OOP Twenty-One game and I struggled. I get overwhelmed when I first star
 
 ## Day 54: July 22, 2020
 Have a working Twenty-One game but needs refactoring - a lot of methods have too high of a complexity level.
+
+## Day 55: July 23, 2020
+Refactored my OO Twenty-One game and submitted for code review. Completed the RB120 debugging problems.
