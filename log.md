@@ -301,3 +301,6 @@ Have a working Twenty-One game but needs refactoring - a lot of methods have too
 
 ## Day 55: July 23, 2020
 Refactored my OO Twenty-One game and submitted for code review. Completed the RB120 debugging problems.
+
+## Day 56: July 24, 2020
+Started the RB120 medium problem set.
