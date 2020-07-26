@@ -304,3 +304,6 @@ Refactored my OO Twenty-One game and submitted for code review. Completed the RB
 
 ## Day 56: July 24, 2020
 Started the RB120 medium problem set.
+
+## Day 57: Jul 25, 2020
+Just flashcards and hurricane prep today!
