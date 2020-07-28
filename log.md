@@ -310,3 +310,6 @@ Just flashcards and hurricane prep today!
 
 ## Day 58: July 27, 2020
 Working on the RB120 Medium 1 exercises. Taking my time to make sure I really understand what's happening.
+
+## Day 59: July 28, 2020
+Completed the Medium 1 exercises and the lesson 5 quiz.
