@@ -307,3 +307,6 @@ Started the RB120 medium problem set.
 
 ## Day 57: Jul 25, 2020
 Just flashcards and hurricane prep today!
+
+## Day 58: July 27, 2020
+Working on the RB120 Medium 1 exercises. Taking my time to make sure I really understand what's happening.
