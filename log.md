@@ -315,4 +315,7 @@ Working on the RB120 Medium 1 exercises. Taking my time to make sure I really un
 Completed the Medium 1 exercises and the lesson 5 quiz.
 
 ## Day 60: July 29, 2020
-Going through written assessment study guide and making notes on each section.
+Going through RB129 written assessment study guide and making notes on each section.
+
+## Day 61: July 30, 2020
+Finished written assessment notes and feeling pretty happy with the theory. Definitely need to work through exercises.
