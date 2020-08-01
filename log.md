@@ -319,3 +319,6 @@ Going through RB129 written assessment study guide and making notes on each sect
 
 ## Day 61: July 30, 2020
 Finished written assessment notes and feeling pretty happy with the theory. Definitely need to work through exercises.
+
+## Day 62: July 31, 2020
+Re-doing LS exercises.
