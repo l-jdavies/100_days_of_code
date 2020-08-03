@@ -322,3 +322,9 @@ Finished written assessment notes and feeling pretty happy with the theory. Defi
 
 ## Day 62: July 31, 2020
 Re-doing LS exercises.
+
+## Day 63: August 1, 2020
+Flash cards today,
+
+## Day 64: August 2, 2020
+Flash cards.
