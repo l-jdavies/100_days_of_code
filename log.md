@@ -328,3 +328,9 @@ Flash cards today,
 
 ## Day 64: August 2, 2020
 Flash cards.
+
+## Day 65: August 3, 2020
+Took the RB120 written assesment. Struggled with some of the open ended questions - the questions were quite vague so it was difficult to figure out the angle to tackle the problem. 
+
+## Day 66: August 4, 2020
+Passed the written assessment but didn't do as well as the RB109 written one. Worked on assessment revisions today and some OOP codewars problems.
