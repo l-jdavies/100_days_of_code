@@ -334,3 +334,6 @@ Took the RB120 written assesment. Struggled with some of the open ended question
 
 ## Day 66: August 4, 2020
 Passed the written assessment but didn't do as well as the RB109 written one. Worked on assessment revisions today and some OOP codewars problems.
+
+## Day 67: August 5, 2020
+Went through some of Megan's practice questions to test my conceptual knowledge.
