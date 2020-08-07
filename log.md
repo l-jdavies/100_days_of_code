@@ -337,3 +337,6 @@ Passed the written assessment but didn't do as well as the RB109 written one. Wo
 
 ## Day 67: August 5, 2020
 Went through some of Megan's practice questions to test my conceptual knowledge.
+
+## Day 68: August 6, 2020
+Attended study session and practice drilling questions.
