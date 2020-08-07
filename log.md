@@ -340,3 +340,6 @@ Went through some of Megan's practice questions to test my conceptual knowledge.
 
 ## Day 68: August 6, 2020
 Attended study session and practice drilling questions.
+
+## Day 69: August 7, 2020
+Awesome study session with Leena and Rodney quizing me with edge cases for the interview assessment. Reviewed some RB101 problems.
