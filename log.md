@@ -349,3 +349,6 @@ Read through notes.
 
 ## Day 71, August 9, 2020
 Playing around with edge cases to test understanding of fundamentals.
+
+## Day 72, August 10, 2020
+Reviewing exercises for the interview and general problem solving on codewars.
