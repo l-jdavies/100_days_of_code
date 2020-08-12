@@ -352,3 +352,6 @@ Playing around with edge cases to test understanding of fundamentals.
 
 ## Day 72, August 10, 2020
 Reviewing exercises for the interview and general problem solving on codewars.
+
+## Day 73, August 11, 2020
+Aced the technical and communication part of the RB120 interview assessment and started on RB130.
