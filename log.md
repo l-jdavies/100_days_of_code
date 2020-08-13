@@ -355,3 +355,6 @@ Reviewing exercises for the interview and general problem solving on codewars.
 
 ## Day 73, August 11, 2020
 Aced the technical and communication part of the RB120 interview assessment and started on RB130.
+
+## Day 74, August 12, 2020
+Got a solid 5 hours of focus study in today, which I'm really happy with. Finished most of RB130 lesson 1 and should finish the rest tomorrow.
