@@ -358,3 +358,6 @@ Aced the technical and communication part of the RB120 interview assessment and 
 
 ## Day 74, August 12, 2020
 Got a solid 5 hours of focus study in today, which I'm really happy with. Finished most of RB130 lesson 1 and should finish the rest tomorrow.
+
+## Day 75, August 13, 2020
+Reviewed flashcards and finished taking notes and flashcards for lesson 1. Got started on lesson 2, which looks at Minitest.
