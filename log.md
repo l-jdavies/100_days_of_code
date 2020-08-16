@@ -361,3 +361,9 @@ Got a solid 5 hours of focus study in today, which I'm really happy with. Finish
 
 ## Day 75, August 13, 2020
 Reviewed flashcards and finished taking notes and flashcards for lesson 1. Got started on lesson 2, which looks at Minitest.
+
+## Day 76, August 14, 2020
+Sat in on the RB120 study group because I'll be leading a session next week. Plus flashcards and reviewed notes.
+
+## Day 77, August 15, 2020
+Flashcards and completed assignment to create Minitest for Todolist.
