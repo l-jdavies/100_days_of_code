@@ -367,3 +367,6 @@ Sat in on the RB120 study group because I'll be leading a session next week. Plu
 
 ## Day 77, August 15, 2020
 Flashcards and completed assignment to create Minitest for Todolist.
+
+## Day 78, August 16, 2020
+Flashcards only today.
