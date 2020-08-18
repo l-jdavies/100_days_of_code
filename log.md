@@ -370,3 +370,6 @@ Flashcards and completed assignment to create Minitest for Todolist.
 
 ## Day 78, August 16, 2020
 Flashcards only today.
+
+## Day 79, August 17, 2020
+Helped a RB109 student and a RB120 student prepare for their interview assessments. Completed all the easy RB130 problems and started on the medium ones.
