@@ -373,3 +373,6 @@ Flashcards only today.
 
 ## Day 79, August 17, 2020
 Helped a RB109 student and a RB120 student prepare for their interview assessments. Completed all the easy RB130 problems and started on the medium ones.
+
+## Day 80, August 18, 2020
+Working through more Ruby problems, enjoying understanding more about Enumerators and Enumerable.
