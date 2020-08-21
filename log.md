@@ -376,3 +376,6 @@ Helped a RB109 student and a RB120 student prepare for their interview assessmen
 
 ## Day 80, August 18, 2020
 Working through more Ruby problems, enjoying understanding more about Enumerators and Enumerable.
+
+## Day 81, August 20, 2020
+Attended RB130 study session, finished the advance problem set and started on regex book.
