@@ -379,3 +379,6 @@ Working through more Ruby problems, enjoying understanding more about Enumerator
 
 ## Day 81, August 20, 2020
 Attended RB130 study session, finished the advance problem set and started on regex book.
+
+## Day 82, August 21, 2020
+Lead a student study group for RB120, finished the regex book, finished the reading for student linux command line group and completed one easy Ruby challenge.
