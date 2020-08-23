@@ -385,3 +385,6 @@ Lead a student study group for RB120, finished the regex book, finished the read
 
 ## Day 83, August 22, 2020
 Reviewed flashcards.
+
+## Day 84, August 23, 2020
+Attended linux command line study group and flashcards.
