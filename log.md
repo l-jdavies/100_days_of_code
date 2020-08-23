@@ -382,3 +382,6 @@ Attended RB130 study session, finished the advance problem set and started on re
 
 ## Day 82, August 21, 2020
 Lead a student study group for RB120, finished the regex book, finished the reading for student linux command line group and completed one easy Ruby challenge.
+
+## Day 83, August 22, 2020
+Reviewed flashcards.
