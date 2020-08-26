@@ -388,3 +388,9 @@ Reviewed flashcards.
 
 ## Day 84, August 23, 2020
 Attended linux command line study group and flashcards.
+
+## Day 85, August 24, 2020
+Working on Ruby challenges.
+
+## Day 86, August 25, 2020
+Finished going through RB130 course material and working on challenges.
