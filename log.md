@@ -394,3 +394,6 @@ Working on Ruby challenges.
 
 ## Day 86, August 25, 2020
 Finished going through RB130 course material and working on challenges.
+
+## Day 87, August 26, 2020
+Full day of Ruby challenges.
