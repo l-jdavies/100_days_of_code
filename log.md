@@ -403,3 +403,6 @@ Attended student study session and created notes on all sections of the RB139 st
 
 ## Day 89, August 28, 2020
 Took the RB139 assessment and read through the prep material for this weekend's linux study group seminar.
+
+## Day 90, August 29, 2020
+After getting 100% in my RB139 assessment I just did flashcards today.
