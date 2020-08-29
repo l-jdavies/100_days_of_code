@@ -397,3 +397,9 @@ Finished going through RB130 course material and working on challenges.
 
 ## Day 87, August 26, 2020
 Full day of Ruby challenges.
+
+## Day 88, August 27, 2020
+Attended student study session and created notes on all sections of the RB139 study guide as a reference for during the assessment.
+
+## Day 89, August 28, 2020
+Took the RB139 assessment and read through the prep material for this weekend's linux study group seminar.
