@@ -406,3 +406,6 @@ Took the RB139 assessment and read through the prep material for this weekend's 
 
 ## Day 90, August 29, 2020
 After getting 100% in my RB139 assessment I just did flashcards today.
+
+## Day 91, August 30, 2020
+Attended Linux study seminar.
