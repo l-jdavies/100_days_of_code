@@ -409,3 +409,6 @@ After getting 100% in my RB139 assessment I just did flashcards today.
 
 ## Day 91, August 30, 2020
 Attended Linux study seminar.
+
+## Day 92, August 31, 2020
+Made the horribly painful switch to an Ergodox-EZ keyboard. Spent the entire day playing around with it and re-learning how to type plus I wrote a blog post on local variable scope and closures in Ruby.
