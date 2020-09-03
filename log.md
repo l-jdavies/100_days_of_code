@@ -412,3 +412,8 @@ Attended Linux study seminar.
 
 ## Day 92, August 31, 2020
 Made the horribly painful switch to an Ergodox-EZ keyboard. Spent the entire day playing around with it and re-learning how to type plus I wrote a blog post on local variable scope and closures in Ruby.
+
+## Day 93, Sept 1, 2020
+Lots of touch typing drills and read through RB170 lesson 1. Typing is too slow to take notes at the moment.
+
+
