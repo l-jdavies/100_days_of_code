@@ -416,4 +416,5 @@ Made the horribly painful switch to an Ergodox-EZ keyboard. Spent the entire day
 ## Day 93, Sept 1, 2020
 Lots of touch typing drills and read through RB170 lesson 1. Typing is too slow to take notes at the moment.
 
-
+## Day 94, Sept 2, 2020
+Typing and lots of theory, read lesson 2 from 170 and chapters for this week's Linux study group.
