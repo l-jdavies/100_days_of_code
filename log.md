@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 101 Days Of Code - Log
 
 ## Day 0: May 26, 2020
 
@@ -418,3 +418,6 @@ Lots of touch typing drills and read through RB170 lesson 1. Typing is too slow 
 
 ## Day 94, Sept 2, 2020
 Typing and lots of theory, read lesson 2 from 170 and chapters for this week's Linux study group.
+
+## Day 95, Sept 3, 2020
+Typing and slowly moving through course content on HTTP.
