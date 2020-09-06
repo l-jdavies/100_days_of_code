@@ -421,3 +421,6 @@ Typing and lots of theory, read lesson 2 from 170 and chapters for this week's L
 
 ## Day 95, Sept 3, 2020
 Typing and slowly moving through course content on HTTP.
+
+## Day 96, Sept 4, 2020
+Typing drills, flashcards and some in course content.
