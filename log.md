@@ -424,3 +424,6 @@ Typing and slowly moving through course content on HTTP.
 
 ## Day 96, Sept 4, 2020
 Typing drills, flashcards and some in course content.
+
+## Day 97, Sept 5, 2020
+Typing drills, flashcards and Linux study group.
