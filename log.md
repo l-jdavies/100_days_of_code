@@ -427,3 +427,6 @@ Typing drills, flashcards and some in course content.
 
 ## Day 97, Sept 5, 2020
 Typing drills, flashcards and Linux study group.
+
+## Day 98, Sept 6, 2020
+Public holiday today so only a partial day of study. Starting from the beginning of 170 and taking notes as I move through the course.
