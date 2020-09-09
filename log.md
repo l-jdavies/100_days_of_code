@@ -430,3 +430,6 @@ Typing drills, flashcards and Linux study group.
 
 ## Day 98, Sept 6, 2020
 Public holiday today so only a partial day of study. Starting from the beginning of 170 and taking notes as I move through the course.
+
+## Day 99, Sept 7, 2020
+Slowly progressing with my touch typing skills and starting back at lesson 1 for 170, making notes on the material. I don't enjoy this course but I'm going to take my time and I'll get there eventually.
