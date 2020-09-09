@@ -433,3 +433,6 @@ Public holiday today so only a partial day of study. Starting from the beginning
 
 ## Day 99, Sept 7, 2020
 Slowly progressing with my touch typing skills and starting back at lesson 1 for 170, making notes on the material. I don't enjoy this course but I'm going to take my time and I'll get there eventually.
+
+## Day 100, Sept 8, 2020
+Finished making notes on lesson 1 of 170. I'm moving slowly but its better than not moving at all.
